@@ -19,7 +19,7 @@ My experience covers both product development and system deployment.
 - 🧪 Learning and practicing unit test and integration test.
 - 🔐 Writing safer code with SonarQube to avoid vulnerabilities.
 
-### I'm currently working on
+### I'm Currently Working On
 - 📘 Learning and implementing Design Pattern.
 - 🧫 Using unit test and integration test in my side project.
 - 🛡️ Coding with SonarQube to analyze and improve code quality.
