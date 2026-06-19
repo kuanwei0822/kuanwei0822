@@ -29,11 +29,18 @@ Linux · GitHub · GitLab
 
 ---
 
-## 📦 Featured Projects
+## 🤖 AI Workflow
 
----
+*Coming soon.*
 
 ## 📝 Technical Notes
 
+*Coming soon.*
+
+## 📦 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🗄️ [DB2Markdown](https://github.com/kuanwei0822/2025-DB2Markdown) | Auto-generate DB documentation from PostgreSQL |
 
 ---
