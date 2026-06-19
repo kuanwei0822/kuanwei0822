@@ -31,7 +31,9 @@ Linux · GitHub · GitLab
 
 ## 🤖 AI Workflow
 
-*Coming soon.*
+| Workflow | Description |
+|--------|-------------|
+| ⚙️ [GPU-offline-install-document](https://github.com/kuanwei0822/2026-GPU-offline-install-document) | NVIDIA GPU offline installation playbook for air-gapped Linux environments |
 
 ## 📝 Technical Notes
 
