@@ -1,41 +1,39 @@
-# 👋 Hi, I'm Kuanwei F.
+# I'm Kuanwei F. 👋
 
-I'm a Java backend engineer with 3+ years experience.
+Solutions Architect specializing in AI product deployment architecture.
 
-My experience covers both product development and system deployment.
+- Containerized architecture design for AI products
+- End-to-end deployment architecture design for enterprise clients
+- Observability stack design and implementation (Logs + Metrics)
+- Kubernetes HA and Docker deployment architecture
+- On-premise production deployment and troubleshooting
 
-### My Skills
+---
 
-- 💻 Skilled in Java (Java 8/17/21)、SpringBoot、JSP.
-- 🧩 Experience deploying multiple Java microservices.
-- 🏗️ Built backend systems from 0 to 1.
-- 🗄️ RDBMS : SQLServer、PostgreSQL、Oracle.
-- 🔍 NOSQL : Elasticsearch (version 7+).
+## 🛠 Tech Stack
 
-### What I'm Focused On
+**Infrastructure & Orchestration**
+Kubernetes · Docker
 
-- 🚀 Getting more experience that Build backend systems.
-- 🧱 Applying Design Pattern to improve my program architecture.
-- 🧪 Learning and practicing unit test and integration test.
-- 🔐 Writing safer code with SonarQube to avoid vulnerabilities.
+**Observability**
+Grafana · Loki · Prometheus · Alloy · InfluxDB · Telegraf · ELK
 
-### I'm Currently Working On
-- 📘 Learning and implementing Design Pattern.
-- 🧫 Using unit test and integration test in my side project.
-- 🛡️ Coding with SonarQube to analyze and improve code quality.
-- 🧰 Building side projects to optimize my daily work and solve real problems I face at work.
+**Database**
+PostgreSQL · MongoDB · OpenSearch · Elasticsearch · SQLServer · Oracle
 
-<!--
-**kuanwei0822/kuanwei0822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend**
+Java · Spring Boot · Spring MVC · JPA
 
-Here are some ideas to get you started:
+**Tools**
+Linux · GitHub · GitLab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📦 Featured Projects
+
+---
+
+## 📝 Technical Notes
+
+
+---
